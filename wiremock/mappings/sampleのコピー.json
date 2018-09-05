@@ -1,0 +1,13 @@
+{
+    "scenarioName": "To do list",
+    "newScenarioState": "Started",
+    "requiredScenarioState": "A",
+    "request": {
+        "method": "GET",
+        "url": "/api/mytest"
+    },
+    "response": {
+        "status": 200,
+        "body": "More content1\n"
+    }
+}
