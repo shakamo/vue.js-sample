@@ -36,6 +36,8 @@
       </div>
       <!-- キーワード -->
       <text-form-add title="キーワード"> </text-form-add>
+      <!-- キーワード -->
+      <text-form-add title="カテゴリー"> </text-form-add>
       <br>
       <br>
       <input type="submit" value="登録" class="button is-primary">

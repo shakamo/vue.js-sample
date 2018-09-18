@@ -6,7 +6,7 @@
       </div>
       <div class="column is-variable is-7">
         <div class="control">
-          <input class="input" type="text" placeholder="">
+          <input class="input" type="text" v-bind:placeholder="title">
         </div>
       </div>
       <div class="column is-variable is-1">
