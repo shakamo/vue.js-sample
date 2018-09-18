@@ -1,4 +1,4 @@
-# famcook-web-client
+# web-client
 
 ## Project setup
 ```
